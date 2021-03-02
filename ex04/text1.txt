@@ -1,0 +1,2 @@
+ex05/, ex04/, ex03/, ex02/, ex01/, ex00/, Documents/, Downloads/, goinfre, 
+Desktop/, Library/
