@@ -1,2 +1,2 @@
-git log --pretty=oneline
+git log --pretty=%H -5
 
